@@ -63,7 +63,7 @@ El taller orquesta **3 contenedores interconectados** sobre una red interna tipo
 
 ---
 
-## 👥 Autores y Capacitación
+## 👥 Autores
 - **Laboratorio de Informatica Aplicada.**
 -   Tomas Gallastegui
 -   Juan José Caputo
